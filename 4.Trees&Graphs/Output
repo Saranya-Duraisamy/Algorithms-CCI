@@ -9,3 +9,14 @@
 5: 4,
 
 No path exist between 0 and 5
+
+------------------------------
+
+02.MinHeightBSTfromSortedArray::
+
+3
+1
+2
+5
+4
+6
