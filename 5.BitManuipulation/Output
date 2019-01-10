@@ -11,3 +11,9 @@ Result:1100
 03.FlipBitToWin::
 Longest Sequence of 1's: 8
 Longest Sequence of 1's: 8
+
+------------------------------
+
+05.NumberConversionFlipBitCount::
+#Bit Flip Count: 2
+#Bit Flip Count Simplified: 2
